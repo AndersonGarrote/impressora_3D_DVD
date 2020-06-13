@@ -14,7 +14,7 @@ Os detalhes mais específicos de cada parte do projeto se encontram na [Wiki](ht
 A parte mecânica da impressora se baseia na utilização de diversos motores de passo, tanto os encontrados nos drivers de CD/DVD, quanto avulsos, reproduzindo os eixos X, Y e Z necessários para a impressão em 3D.
 
 ## Eletrônica
-Para a eletrônica, a impressora funcionará principalmente a partir de uma placa Arduino Uno, a qual irá controlar os motores, sensores e demais componentes a partir de um shield CNC V3 e quatro drivers A4988.
+Para a eletrônica, a impressora funcionará principalmente a partir de uma placa Arduino Uno, a qual irá controlar os motores, sensores e demais componentes a partir de um shield CNC V3 e quatro drivers ULN2003.
 
 ## Programação
 
