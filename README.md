@@ -8,7 +8,7 @@ O conceito inicial surgiu durante a atividade de extensão Hackerspace, da UFSCa
 
 Esperamos, no final, ter uma impressora funcional que realize a produção de pequenos modelos 3D.
 
-Os detalhes mais específicos de cada parte do projeto se encontram na aba Wiki. Este README é apenas uma visão geral.
+Os detalhes mais específicos de cada parte do projeto se encontram na [Wiki](https://github.com/AndersonGarrote/impressora_3D_DVD/wiki) do projeto. Este README é apenas uma visão geral.
 
 ## Mecânica
 A parte mecânica da impressora se baseia na utilização de diversos motores de passo, tanto os encontrados nos drivers de CD/DVD, quanto avulsos, reproduzindo os eixos X, Y e Z necessários para a impressão em 3D.
