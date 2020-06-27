@@ -24,10 +24,10 @@ A parte de controle por software será usada nas etapas de modelagem o objeto 3d
 ## Bugs e problemas conhecidos
 
 ## Autores 
-Adriano
-[Anderson Pinheiro Garrote](https://github.com/AndersonGarrote)
-Marcus
-Vinicius
+- Adriano
+- [Anderson Pinheiro Garrote](https://github.com/AndersonGarrote)
+- Marcus
+- Vinicius
 
 ## Resultados
 
