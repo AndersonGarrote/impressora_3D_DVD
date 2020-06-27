@@ -17,6 +17,7 @@ A parte mecânica da impressora se baseia na utilização de diversos motores de
 Para a eletrônica, a impressora funcionará principalmente a partir de uma placa Arduino Uno, a qual irá controlar os motores, sensores e demais componentes a partir de um shield CNC V3 e quatro drivers DRV8825.
 
 ## Programação
+A parte de controle por software será usada nas etapas de modelagem o objeto 3d em um programa de CAD, no processo de manufatura assistida por computador realizado por um programa de CAM e no firmware do Arduíno, responsável por transformar as instruções de movimentação do bico extrusor em sinais para os drivers dos motores.  
 
 ## Passo a passo
 
