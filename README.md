@@ -26,7 +26,7 @@ A parte de controle por software será usada nas etapas de modelagem o objeto 3d
 ## Autores 
 - Adriano
 - [Anderson Pinheiro Garrote](https://github.com/AndersonGarrote)
-- Marcus
+- [Marcus Vinícius Natrielli Garcia](https://github.com/Infinitemarcus)
 - Vinicius
 
 ## Resultados
