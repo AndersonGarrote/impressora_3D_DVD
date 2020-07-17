@@ -19,17 +19,22 @@ Para a eletrônica, a impressora funcionará principalmente a partir de uma plac
 ## Programação
 A parte de controle por software será usada nas etapas de modelagem o objeto 3D em um programa de CAD, no processo de manufatura assistida por computador realizado por um programa de CAM e no firmware do Arduíno, responsável por transformar as instruções de movimentação do bico extrusor em sinais para os drivers dos motores.  
 
+## Extrusão
+Para a extrusão dos filamentos da impressora, será usado 
+
 ## Passo a passo
 * Realizamos algumas reuniões com o grupo, procurando escolher as melhores tecnologias e abordagens para a fabricação da impressora
+* Dividimos cada uma das partes principais do projeto, sendo elas: mecânica, eletrônica, de programação e de extrusão
 
 ## Bugs e problemas conhecidos
 
 ## Autores 
-- Adriano
+- [Adriano Emidio](https://github.com/adrianoemidio)
 - [Anderson Pinheiro Garrote](https://github.com/AndersonGarrote)
 - [Marcus Vinícius Natrielli Garcia](https://github.com/Infinitemarcus)
 - [Vinícius Carvalho Venturini](https://github.com/Vinicius-Venturini)
 
 ## Resultados
+Devido a pandemia atual, não tivemos a oportunidade de juntar presencialmente todos os componentes e peças. No entanto, obtivemos diversos bons resultados em cada parte separada do sistema.
 
-
+Estamos em fase de testes tanto para a extrusão quanto para o software, buscando entender os detalhes e pormenores de ambos.
