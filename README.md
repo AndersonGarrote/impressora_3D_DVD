@@ -20,10 +20,11 @@ Para a eletrônica, a impressora funcionará principalmente a partir de uma plac
 A parte de controle por software será usada nas etapas de modelagem o objeto 3D em um programa de CAD, no processo de manufatura assistida por computador realizado por um programa de CAM e no firmware do Arduíno, responsável por transformar as instruções de movimentação do bico extrusor em sinais para os drivers dos motores.  
 
 ## Extrusão
-Para a extrusão dos filamentos da impressora, será usado 
+Para a extrusão dos filamentos da impressora, será usado um módulo extrusor, chamado de HotEnd V6, e um motor de passo, depositando o filamento na extrusora. Utilizaremos materiais de até 1.75mm, respeitando os limites impostos pelas peças.
 
 ## Passo a passo
 * Realizamos algumas reuniões com o grupo, procurando escolher as melhores tecnologias e abordagens para a fabricação da impressora
+* Escrevemos uma lista com os materiais que já possuíamos, incluindo componentes eletrônicos, leitores de CD/DVD e motores
 * Dividimos cada uma das partes principais do projeto, sendo elas: mecânica, eletrônica, de programação e de extrusão
 
 ## Bugs e problemas conhecidos
@@ -37,4 +38,6 @@ Para a extrusão dos filamentos da impressora, será usado
 ## Resultados
 Devido a pandemia atual, não tivemos a oportunidade de juntar presencialmente todos os componentes e peças. No entanto, obtivemos diversos bons resultados em cada parte separada do sistema.
 
-Estamos em fase de testes tanto para a extrusão quanto para o software, buscando entender os detalhes e pormenores de ambos.
+Estamos em fase de testes tanto para a extrusão quanto para a programação, buscando entender os detalhes e pormenores de ambos.
+
+
