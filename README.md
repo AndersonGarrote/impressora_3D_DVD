@@ -14,13 +14,13 @@ Os detalhes mais específicos de cada parte do projeto se encontram na [Wiki](ht
 A parte mecânica da impressora se baseia na utilização de diversos motores de passo, tanto os encontrados nos drivers de CD/DVD, quanto avulsos, reproduzindo os eixos X, Y e Z necessários para a impressão em 3D. Um motor de passo também será usado para movimentar o filamento para a extrusora.
 
 ## Eletrônica
-Para a eletrônica, a impressora funcionará principalmente a partir de uma placa Arduino Uno, a qual irá controlar os motores, sensores e demais componentes utilizando um shield CNC V3 e quatro drivers DRV8825.
+Para a eletrônica, a impressora funcionará principalmente a partir de uma placa Arduino Uno, a qual irá controlar os motores, sensores e demais componentes utilizando um shield [CNC V3](https://www.handsontec.com/dataspecs/cnc-3axis-shield.pdf) e quatro [drivers DRV8825](https://www.ti.com/lit/ds/symlink/drv8825.pdf).
 
 ## Programação
 A parte de controle por software será usada nas etapas de modelagem o objeto 3D em um programa de CAD, no processo de manufatura assistida por computador realizado por um programa de CAM e no firmware do Arduíno, responsável por transformar as instruções de movimentação do bico extrusor em sinais para os drivers dos motores.  
 
 ## Extrusão
-Para a extrusão dos filamentos da impressora, será usado um módulo extrusor, chamado de HotEnd V6, e um motor de passo, depositando o filamento na extrusora. Utilizaremos materiais de até 1.75mm, respeitando os limites impostos pelas peças.
+Para a extrusão dos filamentos da impressora, será usado um módulo extrusor, chamado de [HotEnd V6](https://e3d-online.dozuki.com/c/V6), e um motor de passo, depositando o filamento na extrusora. Utilizaremos materiais de até 1.75mm, respeitando os limites impostos pelas peças.
 
 ## Passo a passo
 * Realizamos algumas reuniões com o grupo, procurando escolher as melhores tecnologias e abordagens para a fabricação da impressora
