@@ -25,9 +25,17 @@ Para a extrusão dos filamentos da impressora, será usado um módulo extrusor, 
 ## Passo a passo
 * Realizamos algumas reuniões com o grupo, procurando escolher as melhores tecnologias e abordagens para a fabricação da impressora
 * Escrevemos uma lista com os materiais que já possuíamos, incluindo componentes eletrônicos, leitores de CD/DVD e motores
-* Dividimos cada uma das partes principais do projeto, sendo elas: mecânica, eletrônica, de programação e de extrusão
+* Dividimos o projeto em partes, sendo elas: mecânica, eletrônica, de programação e de extrusão. Assim poderiamos trabalhar separadamente e, aos poucos, unir cada uma delas
+* Fizemos testes com os motores de passo dos leitores, compreendendo como eles funcionavam e quais eram suas limitações
+* Testamos o shield CNC e o Arduino UNO, usando os motores de passo comuns que já possuíamos (além dos leitores)
+* Buscamos quais são as melhores bibliotecas de Arduino para controlar o shield CNC e o circuito eletrônico
+* Estudamos os softwares necessários para realizar a impressão de uma peça 3D, passando por modelagem digital do objeto, conversão do mesmo para G-Code e comunicação com o Arduino
+* Compramos o módulo extrusor, uma das poucas peças que não possuíamos e que não poderiamos reaproveitar de outros meios
+* Testamos a medição da temperatura do módulo extrusor
 
 ## Bugs e problemas conhecidos
+
+Por enquanto, não encontramos bugs, erros ou falhas no projeto. O maior problema encontrado é a dificuldade na integração das partes, devido a necessidade de trabalharmos a distância e online durante a pandemia do CoVID-19. Muitas peças de uma mesma parte estão espalhadas entre os membros do projeto.
 
 ## Autores 
 - [Adriano Emidio](https://github.com/adrianoemidio)
@@ -38,6 +46,9 @@ Para a extrusão dos filamentos da impressora, será usado um módulo extrusor, 
 ## Resultados
 Devido a pandemia atual, não tivemos a oportunidade de juntar presencialmente todos os componentes e peças. No entanto, obtivemos diversos bons resultados em cada parte separada do sistema.
 
-Estamos em fase de testes tanto para a extrusão quanto para a programação, buscando entender os detalhes e pormenores de ambos.
+Estamos em fase de testes tanto para a extrusão quanto para a programação, buscando entender os detalhes de ambos e, futuramente, interligá-los.
 
+A parte eletrônica está praticamente pronta, com todas as peças essenciais já em nossa posse. Fala, todavia, progresso na união com as outras partes.
+
+Por fim, a mecânica é a parte mais estagnada. Montar e planejar os eixos e a movimentação das peças necessita da união presencial dos membros do projeto.
 
